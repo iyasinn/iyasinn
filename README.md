@@ -1,4 +1,4 @@
-<h2 align="left">Hello, My name is Hasan Yasin and I'm a Software Engineer, from Detroit, Michigan !</h2>
+<h2 align="left">Hello, My name is Ihsaan Yasin and I'm a Software Engineer, from Michigan!!</h2>
 
 ###
 
