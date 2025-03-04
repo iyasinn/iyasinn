@@ -1,9 +1,18 @@
-<h2 align="left">Hello, My name is Ihsaan Yasin and I'm a Software Engineer, from Michigan!!</h2>
+# Hi there, I'm a C++ Enthusiast 🚀
 
-###
+I’m a coder with a passion for:
+- **C++**: Where performance meets elegance
+- **Research**: Forever curious, forever exploring
+- **ML**: Turning data into insights (and maybe magic!)
+- **Systems**: Crafting robust and efficient architectures
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hayasin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+> "Code is like humor – when you have to explain it, it's bad." – Cory House
 
-###
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, world of C++, Research, ML, and Systems!" << endl;
+    return 0;
+}
