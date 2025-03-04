@@ -1,5 +1,3 @@
-# Hi there, I'm a C++ Enthusiast 🚀
-
 I’m a coder with a passion for:
 - **C++**: Where performance meets elegance
 - **Research**: Forever curious, forever exploring
